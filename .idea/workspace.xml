@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49c4e0b6-eb7e-4168-9ffa-e06153322fd1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interthread_communication/lock/LockPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interthread_communication/lock_with_custom_objects/CustomObjectLockPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interthread_communication/producer_and_consumer/ProducerAndConsumerPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interthread_communication/producer_consumer_with_lock/ProConWithLockPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interthread_communication/synchronization/SynchronizationPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interthread_communication/wait_and_notify/WaitAndNotifyPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading_concepts/AtomicVariablePOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading_concepts/DeadlockPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading_concepts/LiveLockPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading_concepts/SemaphoreExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading_concepts/VolatileKeywordPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading_poc/Daemon_and_Worker_Thread/DaemonAndWorkerPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading_poc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading_poc/thread_priority/ThreadPriorityPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading_poc/with_runnable/RunnablePOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/multithreading_poc/with_thread/ThreadPOC.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Opscqouokyt8PaaOfrzahNafe1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RunnablePOC.executor": "Run",
+    "Application.VolatileKeywordPOC.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/b0274943/Documents/Multithreading_POC"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.VolatileKeywordPOC">
+    <configuration name="AtomicVariablePOC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading_concepts.AtomicVariablePOC" />
+      <module name="Multithreading_POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading_concepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiveLockPOC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading_concepts.LiveLockPOC" />
+      <module name="Multithreading_POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading_concepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnablePOC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.multithreading_poc.with_runnable.RunnablePOC" />
+      <module name="Multithreading_POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.multithreading_poc.with_runnable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading_concepts.SemaphoreExample" />
+      <module name="Multithreading_POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading_concepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileKeywordPOC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading_concepts.VolatileKeywordPOC" />
+      <module name="Multithreading_POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading_concepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VolatileKeywordPOC" />
+        <item itemvalue="Application.RunnablePOC" />
+        <item itemvalue="Application.SemaphoreExample" />
+        <item itemvalue="Application.AtomicVariablePOC" />
+        <item itemvalue="Application.LiveLockPOC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49c4e0b6-eb7e-4168-9ffa-e06153322fd1" name="Changes" comment="" />
+      <created>1682268944100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682268944100</updated>
+      <workItem from="1718141243681" duration="202000" />
+      <workItem from="1718931729159" duration="169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
